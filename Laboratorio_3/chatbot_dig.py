@@ -5,7 +5,7 @@ from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
 from gtts import gTTS
 import io
 import base64
-import os
+import os #necesario para key en hugging face
 
 # --- Configuración de la página ---
 st.set_page_config(
@@ -32,7 +32,7 @@ sistemas digitales, responde amablemente que no puedes responder respecto a eso 
 """
 
 # -- Inicialización del Modelo y Estado de la Sesión 
-deepseek_api_key = os.environ.get("DEEPSEEK_API_KEY")
+deepseek_api_key = os.environ.get("DEEPSEEK_API_KEY") #modelo de key para ejecutar en hugging face
 
 # Inicializamos el modelo de DeepSeek
 if "llm" not in st.session_state:
