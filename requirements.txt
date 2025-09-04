@@ -1,7 +1,0 @@
-streamlit
-streamlit-mic-recorder
-langchain
-langchain-deepseek
-gtts
-speechrecognition
-pydub
