@@ -90,5 +90,14 @@ DEEPSEEK_API_KEY = "tu_api_key_aqui"
 │── requirements.txt    # Dependencias necesarias
 │── README.md           # Este archivo
 └── Paso_a_paso.pdf     # Documento guía del laboratorio
-
 streamlit run chatbot.py
+
+------------
+
+## 🚀 Despliegue en Streamlit Cloud
+
+1. Subir el proyecto a GitHub.
+2. Conectar con **Streamlit Cloud**.
+3. Configurar requirements.txt
+4. Guardar la API Key en Secrets.
+5. Ejecutar y compartir el enlace.
