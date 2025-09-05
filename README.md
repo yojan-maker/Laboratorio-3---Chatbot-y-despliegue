@@ -94,13 +94,17 @@ streamlit run chatbot.py
 
 ------------
 
-## 🚀 Despliegue en Streamlit Cloud
+## 🚀 Despliegue en Hugging Face
 
-1. Subir el proyecto a GitHub.
-2. Conectar con **Streamlit Cloud**.
-3. Configurar requirements.txt
-4. Guardar la API Key en Secrets.
-5. Ejecutar y compartir el enlace.
+1. Se crea cuenta en Hugging Face.
+2. Se debe crear un nuevo Space con gradio, (Luego se fuerza a abrir con Streamlit).
+3. Una ves creado subir el chatbot desde la consola.
+4. En el readme se debe poner sdk:Streamlit para forzar al programa para iniciar con Streamlit.
+5. UNa ves que ya tenemos cargado la APP.PY (Chatbot) los requirements (Librerias Necesarias) se inician el chatbot dando la excepcion que dice Up.
+
+## URL de Nuestro ChatBot (Ingresa y Pregunta lo que Quieras Sobre los Sistemas Digitales)
+
+https://huggingface.co/spaces/Yojan432/Chatbot/tree/main
 
 ------------
 
