@@ -112,5 +112,16 @@ En el PDF incluido Paso_a_paso_chatbot_overleaf.pdf encontraras:
 * Instalacion de dependencias
 * Ejecucion local
 * Control de versiones con GitHub
+
+------------
+
+## ✨ Conclusiones
+
+Este proyecto demuestra como integrar:
+
+* **Streamlit** → interfaz rapida y flexible.
+* **DeepSeek + LangChain** → motor conversacional personalizado.
+* **gTTS + Voz** → experiencia inmersiva.
+* **Cloud** → despliegue accesible para compartir.
 * Despliegue en Streamlit CLoud
 * Explicacion del desarrollo
