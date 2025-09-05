@@ -57,4 +57,13 @@ pip install -r requirements.txt
 
 streamlit run chatboy.py
 
+## 🔑 Variables de Entorno
+
+------------
+
+El proyecto requiere una **API Key de DeepSeek**.
+En **Streamlit CLoud** se debe agregar en la seccion **Secrets**:
+
+DEEPSEEK_API_KEY = "tu_api_key_aqui"
+
 streamlit run chatbot.py
