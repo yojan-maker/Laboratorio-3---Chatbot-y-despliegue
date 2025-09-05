@@ -59,11 +59,26 @@ streamlit run chatboy.py
 
 ## 🔑 Variables de Entorno
 
+---
+
+El proyecto requiere una **API Key de DeepSeek**.
+En **Streamlit CLoud** se debe agregar en la seccion **Secrets**:
+
+DEEPSEEK_API_KEY = "tu_api_key_aqui"
+
 ------------
 
 El proyecto requiere una **API Key de DeepSeek**.
 En **Streamlit CLoud** se debe agregar en la seccion **Secrets**:
 
 DEEPSEEK_API_KEY = "tu_api_key_aqui"
+
+------------
+
+## 🎙️ Uso
+
+* **Escribe tu pregunta** en el chat input.
+* **Habla al microfono** para interactuar por voz.
+* El bot respondera en **texto y audio** con el estilo caracteristico de Santaolalla.
 
 streamlit run chatbot.py
