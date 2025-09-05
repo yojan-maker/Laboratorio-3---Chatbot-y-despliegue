@@ -101,3 +101,16 @@ streamlit run chatbot.py
 3. Configurar requirements.txt
 4. Guardar la API Key en Secrets.
 5. Ejecutar y compartir el enlace.
+
+------------
+
+## 📚 Documentacion Extra
+
+En el PDF incluido Paso_a_paso_chatbot_overleaf.pdf encontraras:
+
+* Creacion del entorno
+* Instalacion de dependencias
+* Ejecucion local
+* Control de versiones con GitHub
+* Despliegue en Streamlit CLoud
+* Explicacion del desarrollo
