@@ -81,4 +81,14 @@ DEEPSEEK_API_KEY = "tu_api_key_aqui"
 * **Habla al microfono** para interactuar por voz.
 * El bot respondera en **texto y audio** con el estilo caracteristico de Santaolalla.
 
+------------
+
+## 🧩 Estructura del Proyecto
+
+📂 chatbot-sistemas-digitales
+│── chatbot.py          # Código principal del chatbot
+│── requirements.txt    # Dependencias necesarias
+│── README.md           # Este archivo
+└── Paso_a_paso.pdf     # Documento guía del laboratorio
+
 streamlit run chatbot.py
