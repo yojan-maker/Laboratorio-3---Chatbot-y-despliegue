@@ -97,7 +97,7 @@ streamlit run chatbot.py
 
 ## URL de Nuestro ChatBot (Ingresa y Pregunta lo que Quieras Sobre los Sistemas Digitales)
 
-https://huggingface.co/spaces/Yojan432/Chatbot/tree/main
+https://huggingface.co/spaces/Yojan432/Chatbot
 
 ------------
 
